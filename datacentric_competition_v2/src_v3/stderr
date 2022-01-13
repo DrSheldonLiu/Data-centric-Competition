@@ -1,0 +1,4 @@
+2021-08-28 00:40:05.657288: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-08-28 00:40:07.628709: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+2021-08-28 00:40:07.631042: I tensorflow/core/platform/profile_utils/cpu_utils.cc:112] CPU Frequency: 2294680000 Hz
